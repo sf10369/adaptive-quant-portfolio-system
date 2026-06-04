@@ -53,10 +53,5 @@ The strategy was evaluated using:
 
 The adaptive framework demonstrates how machine learning and quantitative signals can be combined to construct portfolios that respond dynamically to changing market environments while controlling downside risk.
 
-## Author
 
-Steve Fernandes
 
-B.S. Data Science, University of Georgia (High Honors)
-
-Incoming MSc Risk Management & Financial Engineering, Imperial College London
